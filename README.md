@@ -1,2 +1,2 @@
 # Silberbola.github.io
-Curriculum go Jornada DEV
+Curriculum do Jornada DEV
